@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>星海小筑</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>星海小筑</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>星海小筑</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>平时作业</title>
+      <link>/complexanalysis/content/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/complexanalysis/content/example1/</guid>
+      <description>&lt;h2 id=&#34;第一次作业&#34;&gt;第一次作业&lt;/h2&gt;
+&lt;p&gt;讲义练习1.1-1.10; 
+&lt;a href=&#34;../../../lectures/complexanalysis/ex01_answers.pdf&#34;&gt;作业答案&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;../../../lectures/complexanalysis/exp1:z4.nb&#34;&gt;证明$\exp(-1/z^4)$满足柯西黎曼方程的Mathematica notebook&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;第二次作业&#34;&gt;第二次作业&lt;/h2&gt;
+&lt;p&gt;讲义练习1.11-1.19; 2.1-2.3; 
+&lt;a href=&#34;../../../lectures/complexanalysis/ex02_answers.pdf&#34;&gt;作业答案&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;第三次作业&#34;&gt;第三次作业&lt;/h2&gt;
+&lt;p&gt;讲义练习 2.4-2.12; 
+&lt;a href=&#34;../../../lectures/complexanalysis/ex03_answers.pdf&#34;&gt;作业答案&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;第四次作业&#34;&gt;第四次作业&lt;/h2&gt;
+&lt;p&gt;讲义练习 4.1-4.12; 
+&lt;a href=&#34;../../../lectures/complexanalysis/ex04_answers.pdf&#34;&gt;作业答案&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;第五次作业&#34;&gt;第五次作业&lt;/h2&gt;
+&lt;p&gt;讲义练习 5.1-5.7  
+&lt;a href=&#34;../../../lectures/complexanalysis/ex05_answers.pdf&#34;&gt;作业答案&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;第六次作业&#34;&gt;第六次作业&lt;/h2&gt;
+&lt;p&gt;讲义练习 5.9-5.13； 6.1-6.3  
+&lt;a href=&#34;../../../lectures/complexanalysis/ex06_answers.pdf&#34;&gt;作业答案&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;第七次作业部分&#34;&gt;第七次作业（部分）&lt;/h2&gt;
+&lt;p&gt;讲义练习 6.4-6.8；
+&lt;a href=&#34;../../../lectures/complexanalysis/ex07_answers.pdf&#34;&gt;作业答案&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;期中考试答案lecturescomplexanalysismid_termspdf&#34;&gt;
+&lt;a href=&#34;../../../lectures/complexanalysis/mid_terms.pdf&#34;&gt;期中考试答案&lt;/a&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>课程小论文</title>
+      <link>/complexanalysis/content/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/complexanalysis/content/example2/</guid>
+      <description>&lt;p&gt;要求：从下面所列内容中选择一项你感兴趣的，可以结成一到三人的团队，自主查找资料学习理解你感兴趣的这一项内容，完成一篇小论文，论文的内容可以是对该选题内容的介绍（深度与课堂学习深度相当即可），对所选题目前沿进展的介绍，对该选题的计算机编程实现等等。&lt;strong&gt;不能&lt;/strong&gt;直接翻译参考文献。&lt;/p&gt;
+&lt;p&gt;课程论文是选做内容，结果不影响成绩。提交截止日期：&lt;strong&gt;12月18日&lt;/strong&gt;。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;介绍如何将黎曼$\zeta$函数的解析延拓到整个复平面。&lt;/li&gt;
+&lt;li&gt;黎曼曲面的可视化。可参考：
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mi.fu-berlin.de/en/math/groups/ag-geom/publications/db/lifteddomaincoloring.pdf&#34;&gt;http://www.mi.fu-berlin.de/en/math/groups/ag-geom/publications/db/lifteddomaincoloring.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;解析性与柯西-黎曼方程关系最弱条件的严格证明。&lt;/li&gt;
+&lt;li&gt;幅角原理与动力系统的稳定性问题，Nyquist稳定性判据等。&lt;/li&gt;
+&lt;li&gt;证明讲义第1.6节中求共轭函数的方法的完备性，并通过非平庸实例说明这个方法是否比传统方法高效。&lt;/li&gt;
+&lt;li&gt;利用复幂次级数求解微分方程的方法简介。&lt;/li&gt;
+&lt;li&gt;黎曼映射定理的介绍。可参考:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.math.stonybrook.edu/~bishop/classes/math626.F08/rmt.pdf&#34;&gt;https://www.math.stonybrook.edu/~bishop/classes/math626.F08/rmt.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://math.uchicago.edu/~may/REU2013/REUPapers/McConnell.pdf&#34;&gt;http://math.uchicago.edu/~may/REU2013/REUPapers/McConnell.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://projecteuclid.org/download/pdf_1/euclid.involve/1513733337&#34;&gt;https://projecteuclid.org/download/pdf_1/euclid.involve/1513733337&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;复动力系统与分形的介绍，Julia sets和Mandelbrot set。可参考：
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://complex-analysis.com/content/julia_set.html&#34;&gt;https://complex-analysis.com/content/julia_set.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;《Dynamics in One Complex Variable》 by Milnor， &lt;a href=&#34;https://arxiv.org/abs/math/9201272&#34;&gt;https://arxiv.org/abs/math/9201272&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;复分析应用与流体力学和机翼升力问题的介绍。&lt;/li&gt;
+&lt;li&gt;伽马函数，黎曼$\zeta$函数，雅可比Theta函数等和素数的联系。&lt;/li&gt;
+&lt;li&gt;复分析在极小曲面中的应用的介绍。可参考&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.math.utah.edu/~korevaar/minimalsurfaces/minimal.pdf&#34;&gt;http://www.math.utah.edu/~korevaar/minimalsurfaces/minimal.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>课程讲义</title>
+      <link>/complexanalysis/content/lecturenotes/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/complexanalysis/content/lecturenotes/</guid>
+      <description>&lt;h2 id=&#34;第一周讲义lecturescomplexanalysisweek1pdf&#34;&gt;
+&lt;a href=&#34;../../../lectures/complexanalysis/week1.pdf&#34;&gt;第一周讲义&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;第二周讲义lecturescomplexanalysisweek2pdf&#34;&gt;
+&lt;a href=&#34;../../../lectures/complexanalysis/week2.pdf&#34;&gt;第二周讲义&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;第三周讲义lecturescomplexanalysisweek3pdf&#34;&gt;
+&lt;a href=&#34;../../../lectures/complexanalysis/week3.pdf&#34;&gt;第三周讲义&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;第四周讲义lecturescomplexanalysisweek4pdf&#34;&gt;
+&lt;a href=&#34;../../../lectures/complexanalysis/week4.pdf&#34;&gt;第四周讲义&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;第五周讲义lecturescomplexanalysisweek5pdf&#34;&gt;
+&lt;a href=&#34;../../../lectures/complexanalysis/week5.pdf&#34;&gt;第五周讲义&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;第六周讲义lecturescomplexanalysisweek6pdf&#34;&gt;
+&lt;a href=&#34;../../../lectures/complexanalysis/week6.pdf&#34;&gt;第六周讲义&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;第七周讲义lecturescomplexanalysisweek7pdf&#34;&gt;
+&lt;a href=&#34;../../../lectures/complexanalysis/week7.pdf&#34;&gt;第七周讲义&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;完整讲义lecturescomplexanalysiscomplex_analysispdf&#34;&gt;
+&lt;a href=&#34;../../../lectures/complexanalysis/complex_analysis.pdf&#34;&gt;完整讲义&lt;/a&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
